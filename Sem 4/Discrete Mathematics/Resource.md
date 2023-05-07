@@ -1,1 +1,51 @@
-
+# Discrete Mathematics (CS-401)
+>Still in Development
+## 1. Set , Relation , Function
+- [Introduction to set theory](https://youtu.be/QMutqqG7CJE)
+- [Power Set](https://youtu.be/EaupQhQ4dsw)
+- [Relation in Set Theory](https://youtu.be/a81yyR60N3k)
+- [Reflexive Relation](https://youtu.be/1Vldmhfd8dk)
+- [Possible Reflexivity](https://youtu.be/peOSZ1JsbPo)
+- [Irreflexive Relation](https://youtu.be/E7oaoettBpo)
+- [Symmetric Relation](https://youtu.be/-6oHeRpVG_o)
+- [Antisymmetric Relation](https://youtu.be/d6yFAmcL2bo)
+- [Asymmetric vs Antisymmetric](https://youtu.be/e0qt5TXdiqQ)
+- [Transitive Relation](https://youtu.be/aqqVDVPftzE)
+- [Equivalence Relation](https://youtu.be/VkWGSqRGozw)
+- [Partial Order Relation](https://youtu.be/h5Lv5ZeNl0g)
+- [Totally Ordered Set](https://youtu.be/22ka59dkT_o)
+- [Comparison between All Relation](https://youtu.be/kSKmoNnXmHM)
+## 2. Principle of Mathematical Induction
+- [Introduction to Mathemamtical Induction](https://youtu.be/1lDfp1j9yzA)
+- [Examples](https://youtube.com/playlist?list=PLO1y6V1SXjjM2Cnx7JPYSbrvyIf9PT3zL)
+## 3. Basic counting Principle
+- [Pigeon Hole Priciple](https://youtu.be/a-O-ioYy1rI)
+- [Basics of Counting](https://www.youtube.com/live/8Fnlk52gl5k?feature=share)
+## 4. Introduction to Propotional Calculus
+- [Conjunction,Disjunction,Negation](https://youtu.be/7S6jHzi8vkk)
+- [Conditional & Biconditional](https://youtu.be/_bwgS5_Q7LQ)
+- [Normal Form](https://youtu.be/j018nHM-WSQ)
+- [Argument](https://youtu.be/mqHWXeg03Ew)
+ 
+## 5. Algebric Structure and Morphism
+- [Introduction to Group Theory](https://youtu.be/K6gRKzkd1mI)
+- [Algebric Structure](https://youtu.be/_i_XRDXcCJY)
+- [Semigroup](https://youtu.be/CxffkidIty4)
+- [Monoid](https://youtu.be/wYPEEJLVjXg)
+- [Group](https://youtu.be/JAvICe01xj0)
+- [Abelion group](https://youtu.be/vAEK1d6KFog)
+- [Functions](https://youtu.be/CClqErMJ-38)
+- [Possible Function](https://youtu.be/MkAttwDquoc)
+- [1 to 1 Function or Injective](https://youtu.be/z810qMsf5So)
+- [Onto Function or Surjective](https://youtu.be/jqaNaJRrg3s)
+- [Bijective Function](https://youtu.be/zv2ONqtOK7g)
+## 6. Graph and Tree
+- [Basics terminology](https://youtu.be/HipVU5vz3Q8)
+- [BiGraph , RG and CG](https://youtu.be/NzBjBE27NcE)
+- [Matrix Representation](https://youtu.be/17erhldpZ8E)
+- [Graph Isomorphism](https://youtu.be/mAaLIiSmI08)
+- [Eular and Hamiltonion Graph](https://youtu.be/tuitCMLwPAE)
+- [Shortest Path with Weighted Graph](https://youtu.be/iOu3PXv5L6w)
+- [Graph Coloring](https://youtu.be/HKRFK8W5JlE)
+- [Spanning tree and Binary Tree](https://youtu.be/sx8BVee3k2c)
+- [MST kruskal & Prim's Algo](https://youtu.be/f30rxGvPWPo)
